@@ -6,7 +6,7 @@ const Header = () => {
     <>
 
    {/* <!-- Preloader --> */}
-{/* <div className="preloader"></div>  */}
+<div className="preloader"></div> 
         {/* <!-- main header --> */}
         <header className="main-header header-white">
       {/* <!--Header-Upper--> */}
